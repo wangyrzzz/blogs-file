@@ -1,0 +1,22 @@
+[
+  {
+    "file": "syntax-17-2.mjs",
+    "passed": true
+  },
+  {
+    "file": "syntax-17-4.mjs",
+    "passed": true
+  },
+  {
+    "file": "syntax-17-5.mjs",
+    "passed": true
+  },
+  {
+    "file": "syntax-3-3.mjs",
+    "passed": true
+  },
+  {
+    "file": "syntax-3-4.mjs",
+    "passed": true
+  }
+]

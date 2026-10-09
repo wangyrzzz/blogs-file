@@ -1,0 +1,266 @@
+{
+  "count": 24,
+  "countingRule": "Unicode characters in body including code, excluding H1, references and all whitespace",
+  "minimumBodyCharacters": 10063,
+  "totalBodyCharacters": 256435,
+  "rows": [
+    {
+      "file": "3种常用的缓存读写策略详解.md",
+      "characters": 12260,
+      "nonWhitespace": 10512,
+      "editedBodyCharacters": 12116,
+      "editedBodyNonWhitespace": 10381,
+      "codeBlocks": 10
+    },
+    {
+      "file": "ConcurrentHashMap 源码分析.md",
+      "characters": 12728,
+      "nonWhitespace": 10674,
+      "editedBodyCharacters": 12369,
+      "editedBodyNonWhitespace": 10332,
+      "codeBlocks": 9
+    },
+    {
+      "file": "Dubbo3探索.md",
+      "characters": 12786,
+      "nonWhitespace": 11063,
+      "editedBodyCharacters": 12600,
+      "editedBodyNonWhitespace": 10891,
+      "codeBlocks": 10
+    },
+    {
+      "file": "html动态渲染并转出PDF.md",
+      "characters": 12589,
+      "nonWhitespace": 10780,
+      "editedBodyCharacters": 12439,
+      "editedBodyNonWhitespace": 10643,
+      "codeBlocks": 5
+    },
+    {
+      "file": "i18n多语言异常提示.md",
+      "characters": 13124,
+      "nonWhitespace": 11289,
+      "editedBodyCharacters": 12925,
+      "editedBodyNonWhitespace": 11104,
+      "codeBlocks": 12
+    },
+    {
+      "file": "Loki日志系统替代ELK.md",
+      "characters": 12551,
+      "nonWhitespace": 11079,
+      "editedBodyCharacters": 12309,
+      "editedBodyNonWhitespace": 10854,
+      "codeBlocks": 10
+    },
+    {
+      "file": "MQTT协议探索.md",
+      "characters": 12525,
+      "nonWhitespace": 11001,
+      "editedBodyCharacters": 12378,
+      "editedBodyNonWhitespace": 10868,
+      "codeBlocks": 10
+    },
+    {
+      "file": "MySQL事务隔离级别详解.md",
+      "characters": 13020,
+      "nonWhitespace": 11396,
+      "editedBodyCharacters": 12838,
+      "editedBodyNonWhitespace": 11227,
+      "codeBlocks": 13
+    },
+    {
+      "file": "MySQL执行计划分析.md",
+      "characters": 12676,
+      "nonWhitespace": 11155,
+      "editedBodyCharacters": 12522,
+      "editedBodyNonWhitespace": 11014,
+      "codeBlocks": 11
+    },
+    {
+      "file": "Redis 3 种特殊数据类型详解.md",
+      "characters": 12004,
+      "nonWhitespace": 10428,
+      "editedBodyCharacters": 11853,
+      "editedBodyNonWhitespace": 10291,
+      "codeBlocks": 10
+    },
+    {
+      "file": "Redis 5 种基本数据类型详解.md",
+      "characters": 12398,
+      "nonWhitespace": 10842,
+      "editedBodyCharacters": 12253,
+      "editedBodyNonWhitespace": 10711,
+      "codeBlocks": 13
+    },
+    {
+      "file": "Seata 2.0自定义异常变try to proceed invocation error问题.md",
+      "characters": 12969,
+      "nonWhitespace": 11030,
+      "editedBodyCharacters": 12734,
+      "editedBodyNonWhitespace": 10819,
+      "codeBlocks": 9
+    },
+    {
+      "file": "Spring Boot 3原生日志traceId方案.md",
+      "characters": 12988,
+      "nonWhitespace": 10792,
+      "editedBodyCharacters": 12752,
+      "editedBodyNonWhitespace": 10577,
+      "codeBlocks": 9
+    },
+    {
+      "file": "Spring Cloud基于k8s服务发现组成异构语言微服务.md",
+      "characters": 13252,
+      "nonWhitespace": 10876,
+      "editedBodyCharacters": 12950,
+      "editedBodyNonWhitespace": 10595,
+      "codeBlocks": 9
+    },
+    {
+      "file": "SpringBoot 自动装配原理.md",
+      "characters": 13589,
+      "nonWhitespace": 11774,
+      "editedBodyCharacters": 13385,
+      "editedBodyNonWhitespace": 11585,
+      "codeBlocks": 12
+    },
+    {
+      "file": "WebSocket长连接会话.md",
+      "characters": 12088,
+      "nonWhitespace": 10349,
+      "editedBodyCharacters": 11960,
+      "editedBodyNonWhitespace": 10234,
+      "codeBlocks": 10
+    },
+    {
+      "file": "乐观锁、悲观锁和CAS.md",
+      "characters": 12837,
+      "nonWhitespace": 10560,
+      "editedBodyCharacters": 12579,
+      "editedBodyNonWhitespace": 10315,
+      "codeBlocks": 8
+    },
+    {
+      "file": "使用Serverless云函数处理图片.md",
+      "characters": 12665,
+      "nonWhitespace": 10830,
+      "editedBodyCharacters": 12476,
+      "editedBodyNonWhitespace": 10656,
+      "codeBlocks": 6
+    },
+    {
+      "file": "分库分表实战.md",
+      "characters": 12224,
+      "nonWhitespace": 10293,
+      "editedBodyCharacters": 12019,
+      "editedBodyNonWhitespace": 10101,
+      "codeBlocks": 9
+    },
+    {
+      "file": "基于Gitlab的CI_CD.md",
+      "characters": 12571,
+      "nonWhitespace": 10662,
+      "editedBodyCharacters": 12380,
+      "editedBodyNonWhitespace": 10490,
+      "codeBlocks": 7
+    },
+    {
+      "file": "基于Redis的snowflake id优化.md",
+      "characters": 12573,
+      "nonWhitespace": 10472,
+      "editedBodyCharacters": 12408,
+      "editedBodyNonWhitespace": 10323,
+      "codeBlocks": 9
+    },
+    {
+      "file": "类加载器详解.md",
+      "characters": 12317,
+      "nonWhitespace": 10208,
+      "editedBodyCharacters": 12159,
+      "editedBodyNonWhitespace": 10063,
+      "codeBlocks": 8
+    },
+    {
+      "file": "轻量级日志traceId方案TLog.md",
+      "characters": 13462,
+      "nonWhitespace": 11215,
+      "editedBodyCharacters": 13219,
+      "editedBodyNonWhitespace": 10993,
+      "codeBlocks": 7
+    },
+    {
+      "file": "轻量级鉴权框架Sa-Token.md",
+      "characters": 13048,
+      "nonWhitespace": 11481,
+      "editedBodyCharacters": 12922,
+      "editedBodyNonWhitespace": 11368,
+      "codeBlocks": 10
+    }
+  ],
+  "failures": [],
+  "jsChecks": [
+    {
+      "file": "html动态渲染并转出PDF.md",
+      "block": 3,
+      "passed": true,
+      "method": "node --check via PowerShell"
+    },
+    {
+      "file": "html动态渲染并转出PDF.md",
+      "block": 4,
+      "passed": true,
+      "method": "node --check via PowerShell"
+    },
+    {
+      "file": "使用Serverless云函数处理图片.md",
+      "block": 2,
+      "passed": true,
+      "method": "node --check via PowerShell"
+    },
+    {
+      "file": "使用Serverless云函数处理图片.md",
+      "block": 4,
+      "passed": true,
+      "method": "node --check via PowerShell"
+    },
+    {
+      "file": "使用Serverless云函数处理图片.md",
+      "block": 5,
+      "passed": true,
+      "method": "node --check via PowerShell"
+    }
+  ],
+  "javaChecks": [
+    {
+      "class": "LockInventoryLab",
+      "passed": true,
+      "output": "CAS: accepted=10000, remaining=0\nMUTEX: accepted=10000, remaining=0"
+    },
+    {
+      "class": "ConcurrentMapLab",
+      "passed": true,
+      "output": "atomic=false, winners=8, mappings=1\natomic=true, winners=1, mappings=1"
+    },
+    {
+      "class": "InitializationLab",
+      "passed": true,
+      "output": "step 1: 7\nstep 2: InitializationLab$Target\nstep 3: before initialization\nTarget initialized\nstep 4: 42"
+    },
+    {
+      "class": "LoaderIdentityLab",
+      "passed": true,
+      "output": "same name=true\nsame class=false\nassignable=false\ndifferent defining loaders: cast rejected"
+    },
+    {
+      "class": "OrderRoute",
+      "passed": true,
+      "output": "user=0 -> ds0.orders_0000 slot=0\nuser=1 -> ds0.orders_0001 slot=1\nuser=2 -> ds0.orders_0002 slot=2\nuser=3 -> ds0.orders_0003 slot=3\nuser=4 -> ds1.orders_0000 slot=4\nuser=5 -> ds1.orders_0001 slot=5\nuser=6 -> ds1.orders_0002 slot=6\nuser=7 -> ds1.orders_0003 slot=7\nuser=8 -> ds0.orders_0000 slot=0\nuser=9 -> ds0.orders_0001 slot=1\nuser=10 -> ds0.orders_0002 slot=2\nuser=11 -> ds0.orders_0003 slot=3\nuser=12 -> ds1.orders_0000 slot=4\nuser=13 -> ds1.orders_0001 slot=5\nuser=14 -> ds1.orders_0002 slot=6\nuser=15 -> ds1.orders_0003 slot=7"
+    },
+    {
+      "class": "SnowflakeEncodingLab",
+      "passed": true,
+      "output": "4096 unique ids; overflow rejected"
+    }
+  ],
+  "archivedFilesVerified": 109
+}

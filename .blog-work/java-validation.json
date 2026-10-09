@@ -1,0 +1,32 @@
+[
+  {
+    "class": "LockInventoryLab",
+    "passed": true,
+    "output": "CAS: accepted=10000, remaining=0\nMUTEX: accepted=10000, remaining=0"
+  },
+  {
+    "class": "ConcurrentMapLab",
+    "passed": true,
+    "output": "atomic=false, winners=8, mappings=1\natomic=true, winners=1, mappings=1"
+  },
+  {
+    "class": "InitializationLab",
+    "passed": true,
+    "output": "step 1: 7\nstep 2: InitializationLab$Target\nstep 3: before initialization\nTarget initialized\nstep 4: 42"
+  },
+  {
+    "class": "LoaderIdentityLab",
+    "passed": true,
+    "output": "same name=true\nsame class=false\nassignable=false\ndifferent defining loaders: cast rejected"
+  },
+  {
+    "class": "OrderRoute",
+    "passed": true,
+    "output": "user=0 -> ds0.orders_0000 slot=0\nuser=1 -> ds0.orders_0001 slot=1\nuser=2 -> ds0.orders_0002 slot=2\nuser=3 -> ds0.orders_0003 slot=3\nuser=4 -> ds1.orders_0000 slot=4\nuser=5 -> ds1.orders_0001 slot=5\nuser=6 -> ds1.orders_0002 slot=6\nuser=7 -> ds1.orders_0003 slot=7\nuser=8 -> ds0.orders_0000 slot=0\nuser=9 -> ds0.orders_0001 slot=1\nuser=10 -> ds0.orders_0002 slot=2\nuser=11 -> ds0.orders_0003 slot=3\nuser=12 -> ds1.orders_0000 slot=4\nuser=13 -> ds1.orders_0001 slot=5\nuser=14 -> ds1.orders_0002 slot=6\nuser=15 -> ds1.orders_0003 slot=7"
+  },
+  {
+    "class": "SnowflakeEncodingLab",
+    "passed": true,
+    "output": "4096 unique ids; overflow rejected"
+  }
+]
